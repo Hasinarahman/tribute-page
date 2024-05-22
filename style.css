@@ -1,6 +1,25 @@
 img {
-  max-width:100%;
+  max-width:50%;
   height: auto;
   display :block;
   margin: 0 auto;
 }
+
+body {
+  background-color: rgba(210, 213, 214, 0.767);
+}
+
+main{
+    text-align: center;
+  }
+
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 32px;
+  background-color: #2f2f49;
+  color: #fff;
+  border-bottom: 4px solid #1b6e30;
+}
+
+
