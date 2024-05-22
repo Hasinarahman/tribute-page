@@ -40,7 +40,6 @@ footer {
   display: flex;
   justify-content: center;
 }
-  
 .gallery img {
   width: 100%;
   max-width: 500px;
